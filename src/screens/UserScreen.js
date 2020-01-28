@@ -10,7 +10,7 @@ const UserScreen = ({ navigation }) => {
       style={{ flex: 1, backgroundColor: "aliceblue", alignItems: "center" }}
     >
       <View style={styles.userIconView}>
-        <UserIcon name="user" color="royalblue" size={100} />
+        <UserIcon name="user" color="dodgerblue" size={100} />
       </View>
       <View style={styles.userInfoView}></View>
     </View>
